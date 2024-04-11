@@ -2,7 +2,7 @@
 Daily program
 09:00-11:00: Talk 
 11:00-11:15: Coffee break
-11:15-12:12: Workshop secondary ice
+11:15-12:12: Workshop git
 
 
 
